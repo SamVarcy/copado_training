@@ -1,4 +1,4 @@
-public class AccountOperations {
+public class AccountOperationsDXTesting {
     public static Account setDefaultDescription(Account a) {
         a.Description = 'Default Desc';
         return a;
