@@ -4,5 +4,13 @@
         <members>AccountOperations</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Account_Operations_Page</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>AccountDefaultDescription</members>
+        <name>ApexTrigger</name>
+    </types>
     <version>42.0</version>
 </Package>
